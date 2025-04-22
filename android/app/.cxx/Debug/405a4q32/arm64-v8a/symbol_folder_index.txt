@@ -1,0 +1,1 @@
+C:\Users\PMLS\StudioProjects\login_authentication\build\app\intermediates\cxx\Debug\405a4q32\obj\arm64-v8a
